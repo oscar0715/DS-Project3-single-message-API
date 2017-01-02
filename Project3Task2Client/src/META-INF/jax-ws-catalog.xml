@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/Project3Task2Server/Project3Task2Server?WSDL" uri="xml-resources/web-service-references/Project3Task2Server/wsdl/localhost_8080/Project3Task2Server/Project3Task2Server.wsdl"/>
+    <system systemId="http://localhost:8080/Project3Task2Server/Project3Task2Server?xsd=1" uri="xml-resources/web-service-references/Project3Task2Server/wsdl/localhost_8080/Project3Task2Server/Project3Task2Server.xsd_1"/>
+    <system systemId="http://localhost:8080/Project3Task2Server/Task2server?WSDL" uri="wsdl/localhost_8080/Project3Task2Server/Task2server.wsdl"/>
+    <system systemId="http://localhost:8080/Project3Task2Server/Task2server?xsd=1" uri="wsdl/localhost_8080/Project3Task2Server/Task2server.xsd_1"/>
+</catalog>
